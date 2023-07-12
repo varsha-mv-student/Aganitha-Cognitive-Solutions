@@ -4,4 +4,10 @@
 
 
 
+QUESTION -1
+
 https://stackblitz.com/edit/stackblitz-starters-ncwtiz?file=index.js
+
+QUESTION-2
+
+https://stackblitz.com/edit/stackblitz-starters-n6tnrn?file=index.js
